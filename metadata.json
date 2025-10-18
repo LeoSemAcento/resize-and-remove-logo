@@ -1,0 +1,5 @@
+{
+  "name": "Batch Image Reframer & Cleaner",
+  "description": "An application that uses AI to automatically reframe, expand, and clean batches of images to a desired aspect ratio, removing watermarks and artifacts in the process.",
+  "requestFramePermissions": []
+}
